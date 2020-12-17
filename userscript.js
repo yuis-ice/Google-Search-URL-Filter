@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  try to take over the world!
-// @author       You
+// @author       yuis-ice
 // @match        http://www.google.com/*
 // @match        http://www.google.co.jp/*
 // @match        https://www.google.com/*
